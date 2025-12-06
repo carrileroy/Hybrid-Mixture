@@ -1,0 +1,19 @@
+﻿ID,Tag number,Litter treatment,Trt number,Shredders,Collector-gatherers,Collector-predators,Scrapers,Predators,Collector-filterers,Predator-shredders,Percent shredders
+1,70,Hybrid,1,2,1,12,0,1,0,0,12.5
+2,280,Hybrid,1,0,0,9,0,2,0,0,0
+3,329,Hybrid,1,2,1,12,1,0,1,0,11.7647059
+4,347,Hybrid,1,2,1,0,0,0,0,0,66.6666667
+5,428,Hybrid,1,5,1,6,1,0,0,0,35.7142857
+6,102,Mixture,2,1,0,1,0,2,0,0,25
+7,152,Mixture,2,0,0,0,0,2,1,0,0
+8,267,Mixture,2,1,1,5,0,0,1,0,12.5
+9,456,Mixture,2,2,0,2,0,0,0,0,40
+10,165,P. trich. ,3,0,1,0,0,1,0,0,0
+11,191,P. trich. ,3,0,0,2,0,0,0,0,0
+12,371,P. trich. ,3,3,0,6,1,1,0,0,27.2727273
+13,442,P. trich. ,3,1,2,3,1,0,0,0,14.2857143
+14,209,P. max. ,4,4,1,9,2,1,0,0,23.5294118
+15,260,P. max. ,4,1,0,1,0,1,0,0,20
+16,372,P. max. ,4,1,0,0,0,0,0,1,100
+17,403,P. max. ,4,0,0,1,0,0,0,0,0
+18,424,P. max. ,4,0,0,6,0,0,0,0,0
